@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course projects and an example
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,8 +21,8 @@ Toward the end of the semester, you will be asked to write a 3-page research pro
 
 Project 2 work by Francis Wolenski. Used with permission.
 
-Project 2 paper ([PDF]({{< baseurl >}}/resources/franciswolenski))
+Project 2 paper ({{% resource_link 8fd64d30-47e3-f838-1052-83f632b6a263 "PDF" %}})
 
-Animated GIF ([GIF - 1.3 MB]({{< baseurl >}}/resources/francisanimated))
+Animated GIF ({{% resource_link daaebbf4-b1b9-dc96-681e-857996a53703 "GIF - 1.3 MB" %}})
 
-Overview Figures ([JPG]({{< baseurl >}}/resources/francisoverview))
+Overview Figures ({{% resource_link 40a965e5-82c3-2a80-83db-92f469b47516 "JPG" %}})
