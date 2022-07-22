@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Project 2 Overview Figures
 uid: 40a965e5-82c3-2a80-83db-92f469b47516
 ---
 A diagram submitted along with a research proposal by Francis Wolenski. Used with permission.
-

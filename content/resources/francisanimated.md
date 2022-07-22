@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Project 2 Animated GIF
 uid: daaebbf4-b1b9-dc96-681e-857996a53703
 ---
 An animated GIF submitted along with a research proposal by Francis Wolenski. Used with permission.
-
