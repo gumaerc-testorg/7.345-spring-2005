@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides an overview of each session of the course and citations
+  for readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ac73e43e-a545-069f-5154-59eef6759d00
 ---
