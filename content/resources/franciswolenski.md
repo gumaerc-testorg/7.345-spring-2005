@@ -2,7 +2,8 @@
 content_type: resource
 description: Example of student work for a project to write a proposal for a research
   project.
-file: /courses/7-345-evolution-of-the-immune-system-spring-2005/8fd64d3047e3f838105283f632b6a263_franciswolenski.pdf
+file: /ol-ocw-studio-app/courses/7-345-evolution-of-the-immune-system-spring-2005/8fd64d3047e3f838105283f632b6a263_franciswolenski.pdf
+file_size: 22043
 file_type: application/pdf
 learning_resource_types:
 - Assignments

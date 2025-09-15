@@ -2,7 +2,8 @@
 content_type: resource
 description: An animated GIF submitted along with a research proposal by Francis Wolenski.
   Used with permission.
-file: /courses/7-345-evolution-of-the-immune-system-spring-2005/daaebbf4b1b9dc96681e857996a53703_francisanimated.gif
+file: /ol-ocw-studio-app/courses/7-345-evolution-of-the-immune-system-spring-2005/daaebbf4b1b9dc96681e857996a53703_francisanimated.gif
+file_size: 1435407
 file_type: image/gif
 image_metadata:
   caption: ''

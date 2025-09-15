@@ -2,7 +2,8 @@
 content_type: resource
 description: A diagram submitted along with a research proposal by Francis Wolenski.
   Used with permission.
-file: /courses/7-345-evolution-of-the-immune-system-spring-2005/40a965e582c32a8083db92f469b47516_francisoverview.jpg
+file: /ol-ocw-studio-app/courses/7-345-evolution-of-the-immune-system-spring-2005/40a965e582c32a8083db92f469b47516_francisoverview.jpg
+file_size: 419973
 file_type: image/jpeg
 image_metadata:
   caption: ''
