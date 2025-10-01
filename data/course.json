@@ -26,7 +26,7 @@
     "website": "7-345-evolution-of-the-immune-system-spring-2005"
   },
   "course_title": "Evolution of the Immune System",
-  "course_description": "In this course, evolutionary pathways that have led to the development of innate and adaptive immunity are analyzed, the conserved and unique features of the immune response from bacteria to higher vertebrates is traced, and factors, such as adaptive changes in pathogens that have shaped the evolution of immune system are identified.\n\nThis course is one of many\u00a0[Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting.\n",
+  "course_description": "In this course, evolutionary pathways that have led to the development of innate and adaptive immunity are analyzed, the conserved and unique features of the immune response from bacteria to higher vertebrates is traced, and factors, such as adaptive changes in pathogens that have shaped the evolution of immune system are identified.\n\nThis course is one of many\u00a0{{% resource_link \"fd24f9fa-daaa-43f7-9872-2e34608cea5b\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting.\n",
   "department_numbers": [
     "7"
   ],
